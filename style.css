@@ -1,0 +1,69 @@
+body {
+    background-color: #252525;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8D9797;
+
+}
+
+li {
+    font-size: 28px;
+    font-family: Quicksand;
+    color: #8D9797;
+    display: inline;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #252525;
+}
+
+
+
+nav {
+    color: #8D9797;
+    border-color: #8D9797;
+    border-bottom: 90px;
+
+}
+h1 {
+    font-size: 36px;
+    font-family: Quicksand;
+    color: white;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 38px;
+    font-family: Quicksand;
+    color: #F3EAC0;
+    font-weight: 600;
+}
+
+p {
+    font-size: 26px;
+    font-family: Quicksand;
+    color: #8D9797;
+    font-weight: 400;
+}
+
+li {
+    font-size: 28px ;
+    font-family: Quicksand;
+    color: white;
+    
+}
